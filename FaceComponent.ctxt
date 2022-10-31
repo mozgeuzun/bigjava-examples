@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FaceComponent
+comment0.text=\r\n\ A\ component\ that\ draws\ an\ alien\ face.\r\n
+comment1.params=
+comment1.target=FaceComponent()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ FaceComponent\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ This\ function\ draws\ the\ face\r\n\ Constructor\ for\ objects\ of\ class\ FaceComponent\r\n
+numComments=3

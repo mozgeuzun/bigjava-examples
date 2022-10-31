@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FaceViewer
+comment1.params=
+comment1.target=FaceViewer()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ FaceViewer\r\n
+comment2.params=
+comment2.target=void\ q3()
+comment2.text=\r\n\ This\ function\ creates\ a\ new\ Frame\r\n\ Constructor\ for\ objects\ of\ class\ FaceViewer\r\n
+numComments=3

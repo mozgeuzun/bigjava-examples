@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ @author\ MERYEM\ OZGE\ UZUN\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Car()
+comment1.text=\r\n\ Default\ Constructor\ class\ Car\r\n
+comment2.params=aPrice\ andEfficiency
+comment2.target=Car(int,\ int)
+comment2.text=\r\n\ Car\ Constructor\ class\ Car\r\n\ @param\ aPrice\ \ \ \ \ \ \ \ \ \ \ \ Price\ of\ the\ car\r\n\ @param\ andEfficiency\ \ \ \ \ Fuel\ Efficiency\r\n
+comment3.params=
+comment3.target=int\ getPrice()
+comment3.text=\r\n\ Getter\ of\ the\ price\r\n\ @return\ purchasePrice\ \ Purchased\ price\ of\ a\ car\r\n
+comment4.params=
+comment4.target=int\ getEfficiency()
+comment4.text=\r\n\ Getter\ of\ the\ fuel\ Efficiency\r\n\ @return\ fuelEfficiency\ \ Fuel\ Efficiency\ of\ a\ car\r\n
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CarChooser
+comment1.params=
+comment1.target=CarChooser()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ CarChooser\r\n
+comment2.params=anAnnualMiles\ aPricePerGalon
+comment2.target=CarChooser(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarChooser\r\n\ @param\ anAnnualMiles\ \ \ total\ Miles\ in\ a\ year\r\n\ @param\ aPricePerGalon\ \ Price\ of\ a\ gallon\r\n
+comment3.params=
+comment3.target=int\ getAnnualMilesDriven()
+comment3.text=\r\n\ Getter\ of\ annual\ miles\r\n\ @return\ annualMilesDriven\ \ total\ Miles\ in\ a\ year\r\n
+comment4.params=
+comment4.target=int\ getPricePerGalon()
+comment4.text=\r\n\ Getter\ of\ price\ of\ a\ gallon\r\n\ @return\ pricePerGalon\ \ \ Price\ of\ a\ gallon\r\n
+comment5.params=car0\ car1
+comment5.target=int\ choose(Car,\ Car)
+comment5.text=\r\n\ This\ function\ shows\ which\ car\ you\ should\ choose.\r\n\ @param\ car0\ \ \ Represents\ the\ first\ input\ car\r\n\ @param\ car1\ \ \ Represents\ the\ second\ input\ car\r\n\ @return\ \ \ \ \ \ \ True\r\n\ \r\n
+comment6.params=
+comment6.target=void\ q1()
+comment6.text=\r\n\ This\ function\ takes\ input\ from\ user\r\n\ \r\n\ \r\n
+comment7.params=aCar
+comment7.target=float\ calcTotalCost(Car)
+comment7.text=\r\n\ This\ function\ calculates\ total\ Cost\ of\ a\ car\r\n\ @param\ aCar\ \ \ Represents\ the\ car\ object\r\n\ @return\ \ \ \ \ \ \ Returns\ Total\ Cost\ of\ a\ car\r\n\ \r\n
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TileSolver
+comment0.text=\r\n\r\n\r\n\ @author\ MERYEM\ OZGE\ UZUN\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=TileSolver()
+comment1.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ TileSolver\r\n
+comment2.params=aLength\ aWidth
+comment2.target=TileSolver(int,\ int)
+comment2.text=\r\n\ \ Constructor\ for\ objects\ of\ class\ TileSolver\r\n\ \ @param\ aLength\ \ \ \ \ \ Length\ of\ the\ floor\r\n\ \ @param\ aWidth\ \ \ \ \ \ \ Width\ of\ the\ floor\r\n
+comment3.params=
+comment3.target=void\ solve()
+comment3.text=\r\n\r\n\ This\ function\ prints\ black\ and\ white\ tiles\ pattern.\r\n\ \r\n
+numComments=4

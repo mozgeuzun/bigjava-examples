@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TileTester
+comment1.params=
+comment1.target=void\ q2()
+comment1.text=\r\n\ This\ function\ takes\ input\ from\ the\ user\ lenght\ and\ width\ \r\n\ And\ creates\ new\ object\ of\ TileSolver\ class.\r\n\r\n
+numComments=2
